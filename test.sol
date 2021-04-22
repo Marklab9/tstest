@@ -17,7 +17,7 @@ contract Hodor {
     function greet() constant returns (string) {
         return greeting;        
     }
-    
+    ikiiiiiiiiiiiiiiiiiii
     // changes the current greeting
     function setGreeting(string _greeting) {
         greeting = _greeting;
