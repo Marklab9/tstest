@@ -20,6 +20,6 @@ contract Hodor {
     ikiiiiiiiiiiiiiiiiiii
     // changes the current greeting
     function setGreeting(string _greeting) {
-        greeting = _greeting;
+        greeting = _greeting;zzzzzzzzzzzz
     }    
 }r
