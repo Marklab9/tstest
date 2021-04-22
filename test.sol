@@ -13,7 +13,7 @@ contract Hodor {
         creator = msg.sender;
     }
     
-    // returns the current greeting
+    // returns the current greetinglklll
     function greet() constant returns (string) {
         return greeting;        
     }
