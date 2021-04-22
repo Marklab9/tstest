@@ -22,4 +22,4 @@ contract Hodor {
     function setGreeting(string _greeting) {
         greeting = _greeting;
     }    
-}
+}r
